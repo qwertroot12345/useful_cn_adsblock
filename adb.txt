@@ -1,0 +1,134 @@
+##[class="plv-live-player-error"]
+www.cr173.com##.f-fr.u-right-ban
+www.natsuneko.cc###live2d
+product.pconline.com.cn##.g-main-bottom
+www.ggbases.com##.ad
+www.oschina.net##.mb-hide.segment.footer.vertical.ui
+news.mydrivers.com##div.main_right_div:nth-of-type(4)
+www.imooc.com###march2022
+www.jianli-sky.com##[href="http://www.2jianli.com"]
+||s.cn.bing.net/th?id=OJ.ctIMyEUgdeHZwQ&w=120&h=160&c=8&rs=1&pid=academic$image||www.primeos.in/wp-content/uploads/2022/04/Sidebar-Ad*.png.webp$image
+||www.truelink.top/q$image
+
+! 没有用的网站（收费或者内容名不副实）
+||*.wywyx.com/*
+||www.kx778.com/*
+||www.midi123.vip/*
+||yehuiyinpin.com/*
+||wenku.baidu.com/*
+||www.xiaohongshu.com/*
+||fonts.googleapis.com/*
+||www.sd173.com/*
+||dude6.com/*
+||www.nxdyx.com/*
+||www.5ityx.com/*
+||www.0451nkw.com/*
+||www.ali213.net/*
+||acgknow.info/*
+||www.jihuab.com/*
+||www.whyao.net/*
+||makeding.com/*
+||www.shangxueba.cn/*
+||blog.csdn.net/m0_60720471/
+||blog.csdn.net/luoyeyu1989
+||www.lianaiyx.com/*
+||www.sina.com.cn/*
+||www.shouyouzhijia.net/*
+||download.csdn.net/*
+||www.galcg.com/*
+||haokan.baidu.com/*
+||jinshuju.net/*
+
+! 移除登录和强制下载app
+www.dailiantong.com##.appDwn
+www.dailiantong.com##.bottom_tools
+||www.dailiantong.com/images/bottom-banner.png$image
+||passport.csdn.net/account/login$subdocument
+||passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2Feidolon8%2Farticle%2Fdetails%2F46453439&iframe=true&newframe=true$subdocument
+blog.csdn.net##.passport-login-box
+blog.csdn.net##[src="https://passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2FYk_0311%2Farticle%2Fdetails%2F108803721&iframe=true&newframe=true"]
+blog.csdn.net##[src="https://passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2Flinxinfa%2Farticle%2Fdetails%2F116572369&iframe=true&newframe=true"]
+blog.csdn.net##[src="https://passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2Fweixin_28726969%2Farticle%2Fdetails%2F115239548&iframe=true&newframe=true"]
+blog.csdn.net##.passport-login-mark
+blog.csdn.net##.passport-login-container
+blog.csdn.net##.text-center.hide-article-pos.hide-article-box
+blog.csdn.net##.false.passport-login-tip-container
+zhuanlan.zhihu.com##.Modal-backdrop
+zhuanlan.zhihu.com##.signQr-container
+zhuanlan.zhihu.com##.Modal-enter-done.undefined.Modal-wrapper
+
+! 移除图片广告
+||pan.baidu.com/buy/ad/home$subdocument
+||edu-wenku.bdimg.com/v1/*g$image
+||edu-wenku.bdimg.com/v1/pc/vip/vipPrivillegeBg-1645671383119.png$image
+||edu-wenku.bdimg.com/v1/pc/vip/*.*$image
+www.hmoeh.com##.n¡ý±k
+www.hmoeh.com##.n¡ý±u
+www.hmoeh.com##[src="https://www.truelink.top/o"]
+www.hmoeh.com##[href="https://www.truelink.top/n"]
+www.hmoeh.com##.SÉ¢WC > [href^="https://www.hmoeh.com/wp-admin/admin-ajax.php"]
+www.hmoeh.com##.cº©Fþ > [href^="https://www.hmoeh.com/wp-admin/admin-ajax.php"]
+||i.hmoe.link/wp-content/uploads/*.gif$image
+||i.hmoe.link/wp-content/uploads/2020/12/a4212158e6de9f9a1a3385b18054050e.jpg$image
+||www.hmoe1.net/wp-content/uploads/2020/12/6067230a325cf27e4d90b7f1fdaab2d3.gif$image
+||www.hmoe1.net/wp-content/uploads/2021/03/5058f1af8388633f609cadb75a75dc9d-2.gif$image
+
+pan.baidu.com##.phone-banner
+www.baidu.com##.FYB_RD
+www.baidu.com##.op-se-listen-recommend.op-bk-polysemy-album > .c-img-radius-large.c-img-border
+www.baidu.com##.OP_LOG_BTN.op-bk-polysemy-imgWrap > .c-img-radius-large.c-img-border
+baijiahao.baidu.com##._1Kia5
+aiqicha.baidu.com##.show-mark.mark
+aiqicha.baidu.com##.border.benefitperson-guide-card.guide-card-wrap
+cache.baiducontent.com##.top-style > .wrapper
+
+shimo.im##.background
+shimo.im##.kdCmKp.sc-bXGyLb
+||shimo.im/login?mode=popupModal&shimo_file=pWCRkrPwx6VYJdPd&redirect_url=https%3A%2F%2Fshimo.im%2Fdocs%2FpWCRkrPwx6VYJdPd%2Fread$subdocument
+||shimo.im/login$subdocument
+
+www.jianshu.com##._2xr8G8
+www.jianshu.com##.ant-affix
+www.jianshu.com##section._3Z3nHf:nth-of-type(1)
+www.jianshu.com##section._3Z3nHf:nth-of-type(2)
+www.jianshu.com##div._1pUUKr:nth-of-type(3)
+
+mydown.yesky.com##.dbtnbg
+mydown.yesky.com##.dbtnbox
+
+www.5axxw.com###gzh-modal
+www.5axxw.com###gzh-mask
+
+www.qianduanheidong.com###layui-layer-shade1
+www.qianduanheidong.com##.layer-anim.layui-layer-molv.layui-layer-dialog.layui-layer
+
+www.gamersky.com##.fixedCode
+www.gamersky.com##.MidRImgTxt
+||image.gamersky.com/webimg15/zq/fixedCode-bg.png$image
+
+www.javaheidong.com###layui-layer-shade1
+www.javaheidong.com##.layer-anim.layui-layer-molv.layui-layer-dialog.layui-layer
+
+! 2023-07-25 https://www.baidu.com
+www.baidu.com##.c-wrapper-l.c-wrapper.clearfix.main
+
+! 2023-07-25 https://www.zhihu.com
+www.zhihu.com##.Modal-backdrop
+www.zhihu.com##.signQr-container
+www.zhihu.com##.Modal-content > div
+www.zhihu.com##.Modal-enter-done.undefined.Modal-wrapper
+
+! 2023-08-03 https://chat.bytearch.com
+chat.bytearch.com##.dark\:bg-slate-800.rounded.bg-white.p-10.n-modal
+chat.bytearch.com##.n-modal-body-wrapper > .n-scrollbar > .n-scrollbar-container
+chat.bytearch.com##.n-modal-container
+
+! 2023-08-21 https://pan.baidu.com
+pan.baidu.com###web-header-text-s-46 > span
+pan.baidu.com##.u-popover__reference.web-header-ad-item.inline-block-v-middle
+||fenwan.cdn.bcebos.com/cms/gamenow/webgame/2023-8/1691480983468/4c9518b9c881.png$image
+pan.baidu.com##.u-popover__reference.wp-s-header__game-entry
+pan.baidu.com##div.wp-s-header__right-item:nth-of-type(2)
+
+! 2023-08-23 https://it.sohu.com
+it.sohu.com###right-side-bar
